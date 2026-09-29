@@ -1,5 +1,4 @@
-# advanced-web-scraper
-A robust Python web scraper built with BeautifulSoup and Requests to extract clean structured data.
+
 # 🚀 Advanced Python Web Scraper
 
 A high-performance, clean Python tool designed to extract structured data from complex websites efficiently and export it seamlessly into clean formats (JSON/Excel).
